@@ -1,0 +1,198 @@
+# Index
+
+This document contains a list index for: calligraphy samples for Zapfini font, like e.g. single chars, words and sentences
+
+These are in HPGL format and located under the hp/ folder.
+
+To create a new word:
+
+- Combine single-char samples for word composition, e.g.:
+    - Zapfino-0.hp
+    - Zapfino-U.hp
+    - Zapfino-u_lc.hp (for lowercase letter 'u')
+
+To get "Now": Zapfino-N.hp + Zapfino-o_lc.hp + Zapfino-w_lc.hp
+
+## Naming Convention
+
+File names hint at their content.
+
+Examples
+- Zapfino-0.hp: Zapfino font, a drawing for the "0" char
+- Zapfino-u_lc.hp: Zapfino font, a drawing for the "u" lowercase char
+- Arial-Candles_glow.hp: Arial font, a drawing for the "Candles glow" short sentence
+- Arial-because.hp: Arial font, a drawing for the "because" word
+- 0-circle-fill.hp: A "0" number inside a circle with background fill
+- airplane.hp: An airplane drawing
+
+## Drawings List
+- Zapfino-0.hp
+- Zapfino-1.hp
+- Zapfino-2.hp
+- Zapfino-3.hp
+- Zapfino-4.hp
+- Zapfino-5.hp
+- Zapfino-6.hp
+- Zapfino-7.hp
+- Zapfino-8.hp
+- Zapfino-9.hp
+- Zapfino-a_lc.hp
+- Zapfino-A.hp
+- Zapfino-about.hp
+- Zapfino-after.hp
+- Zapfino-all.hp
+- Zapfino-also.hp
+- Zapfino-an.hp
+- Zapfino-and.hp
+- Zapfino-any.hp
+- Zapfino-as.hp
+- Zapfino-at.hp
+- Zapfino-b_lc.hp
+- Zapfino-B.hp
+- Zapfino-back.hp
+- Zapfino-be.hp
+- Zapfino-because.hp
+- Zapfino-Birds_sing.hp
+- Zapfino-but.hp
+- Zapfino-by.hp
+- Zapfino-c_lc.hp
+- Zapfino-C.hp
+- Zapfino-can.hp
+- Zapfino-Candles_glow.hp
+- Zapfino-Children_laugh.hp
+- Zapfino-come.hp
+- Zapfino-could.hp
+- Zapfino-d_lc.hp
+- Zapfino-D.hp
+- Zapfino-day.hp
+- Zapfino-do.hp
+- Zapfino-e_lc.hp
+- Zapfino-E.hp
+- Zapfino-even.hp
+- Zapfino-f_lc.hp
+- Zapfino-F.hp
+- Zapfino-first.hp
+- Zapfino-Flowers_bloom.hp
+- Zapfino-for.hp
+- Zapfino-from.hp
+- Zapfino-g_lc.hp
+- Zapfino-G.hp
+- Zapfino-get.hp
+- Zapfino-give.hp
+- Zapfino-go.hp
+- Zapfino-good.hp
+- Zapfino-h_lc.hp
+- Zapfino-H.hp
+- Zapfino-have.hp
+- Zapfino-he.hp
+- Zapfino-her.hp
+- Zapfino-him.hp
+- Zapfino-his.hp
+- Zapfino-how.hp
+- Zapfino-i_lc.hp
+- Zapfino-I.hp
+- Zapfino-if.hp
+- Zapfino-in.hp
+- Zapfino-into.hp
+- Zapfino-it.hp
+- Zapfino-its.hp
+- Zapfino-j_lc.hp
+- Zapfino-J.hp
+- Zapfino-just.hp
+- Zapfino-k_lc.hp
+- Zapfino-K.hp
+- Zapfino-know.hp
+- Zapfino-l_lc.hp
+- Zapfino-L.hp
+- Zapfino-Leaves_rustle.hp
+- Zapfino-like.hp
+- Zapfino-look.hp
+- Zapfino-m_lc.hp
+- Zapfino-M.hp
+- Zapfino-make.hp
+- Zapfino-me.hp
+- Zapfino-most.hp
+- Zapfino-my.hp
+- Zapfino-n_lc.hp
+- Zapfino-N.hp
+- Zapfino-new.hp
+- Zapfino-no.hp
+- Zapfino-not.hp
+- Zapfino-now.hp
+- Zapfino-o_lc.hp
+- Zapfino-O.hp
+- Zapfino-of.hp
+- Zapfino-on.hp
+- Zapfino-one.hp
+- Zapfino-only.hp
+- Zapfino-or.hp
+- Zapfino-other.hp
+- Zapfino-our.hp
+- Zapfino-out.hp
+- Zapfino-over.hp
+- Zapfino-p_lc.hp
+- Zapfino-P.hp
+- Zapfino-people.hp
+- Zapfino-q_lc.hp
+- Zapfino-Q.hp
+- Zapfino-r_lc.hp
+- Zapfino-R.hp
+- Zapfino-Rain_falls.hp
+- Zapfino-s_lc.hp
+- Zapfino-S.hp
+- Zapfino-say.hp
+- Zapfino-see.hp
+- Zapfino-she.hp
+- Zapfino-Snow_melts.hp
+- Zapfino-so.hp
+- Zapfino-some.hp
+- Zapfino-Stars_shine.hp
+- Zapfino-t_lc.hp
+- Zapfino-T.hp
+- Zapfino-take.hp
+- Zapfino-than.hp
+- Zapfino-that.hp
+- Zapfino-the.hp
+- Zapfino-their.hp
+- Zapfino-them.hp
+- Zapfino-then.hp
+- Zapfino-there.hp
+- Zapfino-these.hp
+- Zapfino-they.hp
+- Zapfino-think.hp
+- Zapfino-this.hp
+- Zapfino-Thunder_roars.hp
+- Zapfino-time.hp
+- Zapfino-to.hp
+- Zapfino-two.hp
+- Zapfino-u_lc.hp
+- Zapfino-U.hp
+- Zapfino-up.hp
+- Zapfino-us.hp
+- Zapfino-use.hp
+- Zapfino-v_lc.hp
+- Zapfino-V.hp
+- Zapfino-w_lc.hp
+- Zapfino-W.hp
+- Zapfino-want.hp
+- Zapfino-Waves_crash.hp
+- Zapfino-way.hp
+- Zapfino-we.hp
+- Zapfino-well.hp
+- Zapfino-what.hp
+- Zapfino-when.hp
+- Zapfino-which.hp
+- Zapfino-who.hp
+- Zapfino-will.hp
+- Zapfino-with.hp
+- Zapfino-work.hp
+- Zapfino-would.hp
+- Zapfino-x_lc.hp
+- Zapfino-X.hp
+- Zapfino-y_lc.hp
+- Zapfino-Y.hp
+- Zapfino-year.hp
+- Zapfino-you.hp
+- Zapfino-your.hp
+- Zapfino-z_lc.hp
+- Zapfino-Z.hp
